@@ -3,4 +3,5 @@
 0 0 * 2 5 bash /home/hafidzasqalany28/nature/soal1.sh
 # soal4.sh   
 0 * * * * bash /home/hafidzasqalany28/soal4.sh
-
+# soal5.sh
+2-30/6 * * * * bash /home/[user]/soal5.sh
